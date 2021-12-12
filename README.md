@@ -1,3 +1,9 @@
+# React Redux Counter App
+
+I created a simple counter to test Redux state management.
+
+## Screenshot
+
 ![alt text](https://github.com/omerkaracay/react-redux01-counter/blob/master/src/assets/screenshot.png?raw=true)
 
 # Getting Started with Create React App
